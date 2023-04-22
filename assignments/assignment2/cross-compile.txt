@@ -1,0 +1,9 @@
+Version information:
+aarch64-linux-gnu-gcc version 10.2.1 20210110 (Debian 10.2.1-6) 
+
+Configuration information:
+aarch64-linux-gnu
+
+Sysroot path:
+/
+
